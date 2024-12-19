@@ -6,4 +6,4 @@
 
 <img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 
-<im src="https://www.codewars.com/users/Pale0407/badges/small">
+<img src="https://www.codewars.com/users/Pale0407/badges/small">
