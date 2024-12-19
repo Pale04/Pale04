@@ -5,3 +5,5 @@
 <h3 align="center">A passionate Software Engineering student with a solid foundation in analysis, design, construction, testing and deployment of software</h3>
 
 <img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
+
+<im src="https://www.codewars.com/users/Pale0407/badges/small">
