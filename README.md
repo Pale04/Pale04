@@ -1,15 +1,25 @@
-<div align="center">
-  <img src="github-header-banner.png" alt="Banner" width="100%"/>
+# Hi there, I'm Pale!
+
+## About Me
+
+> I'm studying Software Engineering at Universidad Veracruzana.
+
+> I am passionate about mobile development.
+
+> Currently working on an mobile app for personal finances tracking. See [Simple Expense Tracking App](https://github.com/Pale04/simple-expense-tracking).
+
+ > Learning Flutter and Dart for cross-platform development.
+
+
+<div align="left">
+
+<p>Connect with me :)</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-pale-molina-a16137285)
+
 </div>
 
-## 🚀 About Me
-
-- 🎒​ I'm studying Software Engineering at Universidad Veracruzana.
-- 🌟 I am passionate about mobile development.
-- 🔭 Currently working on an android app for tracking personal finances. See [Simple Expense Tracking App](https://github.com/Pale04/simple-expense-tracking).
-- 🌱 Learning Flutter and Dart for cross-platform development.
-
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -18,9 +28,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=.net&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -42,9 +49,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+### Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pale04&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
 </div>
 
-## 🎯 Featured Projects
+</div>
+
+## Highlighted Projects
 
 ### Papayagrams
 
@@ -54,20 +67,12 @@
 
 </div>
 
-### Financiera Independiente
-
-<div align="left">
-
-[![Financiera Independiente](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=Financiera-independiente&theme=radical&hide_border=true)](https://github.com/Pale04/Financiera-independiente)
-
-</div>
-
 ### BetterMe
 
 <div align="left">
 
-[![BetterMe (mobile)](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=betterme-mobile&theme=radical&hide_border=true)](https://github.com/Pale04/betterme-mobile)
 [![BetterMe API](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=betterme-api&theme=radical&hide_border=true)](https://github.com/Pale04/betterme-api)
+[![BetterMe (mobile)](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=betterme-mobile&theme=radical&hide_border=true)](https://github.com/Pale04/betterme-mobile)
 [![BetterMe (web)](https://github-readme-stats.vercel.app/api/pin/?username=Guashasha&repo=betterme-web&theme=radical&hide_border=true)](https://github.com/Guashasha/betterme-web)
 
 </div>
@@ -87,26 +92,12 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pale04&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pale04&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pale04&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
-</div>
-
-## 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pale04&theme=radical&hide_border=true" alt="Contribution streak" />
-</div>
-
-## 🌐 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-pale-molina-a16137285)
-
 </div>
