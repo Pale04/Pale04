@@ -57,29 +57,26 @@
 
 ### Agentic Applications
 
-[![Repo](https://opengraph.githubassets.com/1/Pale04/ai-browser-agent)](https://github.com/Pale04/ai-browser-agent)
-
-[![Repo](https://opengraph.githubassets.com/1/Pale04/humanized-research-paper-generator)](https://github.com/Pale04/humanized-research-paper-generator)
+<a href="https://github.com/Pale04/ai-browser-agent"><img src="https://opengraph.githubassets.com/1/Pale04/ai-browser-agent" width="49%"/></a>
+<a href="https://github.com/Pale04/humanized-research-paper-generator"><img src="https://opengraph.githubassets.com/1/Pale04/humanized-research-paper-generator" width="49%"/></a>
 
 ### Simple Expense Tracking App
 
-[![Repo](https://opengraph.githubassets.com/1/Pale04/simple-expense-tracking)](https://github.com/Pale04/simple-expense-tracking)
+<a href="https://github.com/Pale04/simple-expense-tracking"><img src="https://opengraph.githubassets.com/1/Pale04/simple-expense-tracking" width="49%"/></a>
 
 ### BetterMe
 
-[![Repo](https://opengraph.githubassets.com/1/Pale04/betterme-api)](https://github.com/Pale04/betterme-api)
-
-[![Repo](https://opengraph.githubassets.com/1/Pale04/betterme-mobile)](https://github.com/Pale04/betterme-mobile)
-
-[![Repo](https://opengraph.githubassets.com/1/Guashasha/betterme-web)](https://github.com/Guashasha/betterme-web)
+<a href="https://github.com/Pale04/betterme-api"><img src="https://opengraph.githubassets.com/1/Pale04/betterme-api" width="32%"/></a>
+<a href="https://github.com/Pale04/betterme-mobile"><img src="https://opengraph.githubassets.com/1/Pale04/betterme-mobile" width="32%"/></a>
+<a href="https://github.com/Guashasha/betterme-web"><img src="https://opengraph.githubassets.com/1/Guashasha/betterme-web" width="32%"/></a>
 
 ### Draweb
 
-[![Repo](https://opengraph.githubassets.com/1/Pale04/Draweb)](https://github.com/Pale04/Draweb)
+<a href="https://github.com/Pale04/Draweb"><img src="https://opengraph.githubassets.com/1/Pale04/Draweb" width="49%"/></a>
 
 ### Papayagrams
 
-[![Repo](https://opengraph.githubassets.com/1/Pale04/Papayagrams)](https://github.com/Pale04/Papayagrams)
+<a href="https://github.com/Pale04/Papayagrams"><img src="https://opengraph.githubassets.com/1/Pale04/Papayagrams" width="49%"/></a>
 
 ## GitHub Stats
 
