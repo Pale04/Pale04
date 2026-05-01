@@ -55,47 +55,31 @@
 
 ## Highlighted Projects
 
-### Agentic Aplications
+### Agentic Applications
 
-<div align="left">
+[![Repo](https://opengraph.githubassets.com/1/Pale04/ai-browser-agent)](https://github.com/Pale04/ai-browser-agent)
 
-[![AI Browser Agent](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=ai-browser-agent&theme=radical&hide_border=true)](https://github.com/Pale04/ai-browser-agent)
-[![Humanized Research Paper Generator](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=humanized-research-paper-generator&theme=radical&hide_border=true)](https://github.com/Pale04/humanized-research-paper-generator)
-
-</div>
+[![Repo](https://opengraph.githubassets.com/1/Pale04/humanized-research-paper-generator)](https://github.com/Pale04/humanized-research-paper-generator)
 
 ### Simple Expense Tracking App
 
-<div align="left">
-
-[![Simple Expense Tracking App](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=simple-expense-tracking&theme=radical&hide_border=true)](https://github.com/Pale04/simple-expense-tracking)
-
-</div>
+[![Repo](https://opengraph.githubassets.com/1/Pale04/simple-expense-tracking)](https://github.com/Pale04/simple-expense-tracking)
 
 ### BetterMe
 
-<div align="left">
+[![Repo](https://opengraph.githubassets.com/1/Pale04/betterme-api)](https://github.com/Pale04/betterme-api)
 
-[![BetterMe API](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=betterme-api&theme=radical&hide_border=true)](https://github.com/Pale04/betterme-api)
-[![BetterMe (mobile)](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=betterme-mobile&theme=radical&hide_border=true)](https://github.com/Pale04/betterme-mobile)
-[![BetterMe (web)](https://github-readme-stats.vercel.app/api/pin/?username=Guashasha&repo=betterme-web&theme=radical&hide_border=true)](https://github.com/Guashasha/betterme-web)
+[![Repo](https://opengraph.githubassets.com/1/Pale04/betterme-mobile)](https://github.com/Pale04/betterme-mobile)
 
-</div>
+[![Repo](https://opengraph.githubassets.com/1/Guashasha/betterme-web)](https://github.com/Guashasha/betterme-web)
 
 ### Draweb
-<div align="left">
 
-[![Draweb](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=Draweb&theme=radical&hide_border=true)](https://github.com/Pale04/Draweb)
-
-</div>
+[![Repo](https://opengraph.githubassets.com/1/Pale04/Draweb)](https://github.com/Pale04/Draweb)
 
 ### Papayagrams
 
-<div align="left">
-
-[![Papayagrams](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=Papayagrams&theme=radical&hide_border=true)](https://github.com/Pale04/Papayagrams)
-
-</div>
+[![Repo](https://opengraph.githubassets.com/1/Pale04/Papayagrams)](https://github.com/Pale04/Papayagrams)
 
 ## GitHub Stats
 
