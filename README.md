@@ -59,8 +59,8 @@
 
 <div align="left">
 
-[![AI Browser Agent](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=simple-expense-tracking&theme=radical&hide_border=true)](https://github.com/Pale04/ai-browser-agent)
-[![Humanized Research Paper Generator](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=simple-expense-tracking&theme=radical&hide_border=true)](https://github.com/Pale04/humanized-research-paper-generator)
+[![AI Browser Agent](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=ai-browser-agent&theme=radical&hide_border=true)](https://github.com/Pale04/ai-browser-agent)
+[![Humanized Research Paper Generator](https://github-readme-stats.vercel.app/api/pin/?username=Pale04&repo=humanized-research-paper-generator&theme=radical&hide_border=true)](https://github.com/Pale04/humanized-research-paper-generator)
 
 </div>
 
