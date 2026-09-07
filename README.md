@@ -1,6 +1,4 @@
-# Hi there, I'm Pale!
-
-## About Me
+# Hi, I'm Pale!
 
 > I'm studying Software Engineering at Universidad Veracruzana.
 
@@ -8,10 +6,9 @@
 
  > Learning Flutter and Dart for cross-platform development.
 
-> Connect with me in LinkedIn :)
+> Let´s connect on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-pale-molina-a16137285)
-
 
 ## Technologies & Tools
 
@@ -34,6 +31,9 @@
 ![Jest](https://img.shields.io/badge/-Jest-32B57F?style=flat-square&logo=jest&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-FF9900?style=flat-square&logo=langchain&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -44,12 +44,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-FF9900?style=flat-square&logo=anthropic&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/-Antigravity-FFFFFF?style=flat-square&logo=antigravity&logoColor=white)
-
-### Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pale04&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
-</div>
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
@@ -79,10 +74,6 @@
 <a href="https://github.com/Pale04/Papayagrams"><img src="https://opengraph.githubassets.com/1/Pale04/Papayagrams" width="49%"/></a>
 
 ## GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pale04&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pale04&theme=radical&hide_border=true" alt="Contribution streak" />
