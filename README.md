@@ -78,3 +78,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pale04&theme=radical&hide_border=true" alt="Contribution streak" />
 </div>
+
+## LeetCode Stats
+
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/Pale04?theme=dark&font=Fira_Code&ext=heatmap&border=0"/>
+</div>
